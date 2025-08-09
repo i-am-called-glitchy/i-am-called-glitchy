@@ -11,3 +11,4 @@ Uses arch btw
 -----
 
 Discord: `i_am_called_glitchy`
+Domain name: https://amcalledglitchy.dev
