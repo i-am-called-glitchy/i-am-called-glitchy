@@ -10,5 +10,5 @@ Uses arch btw
 
 -----
 
-Discord: `i_am_called_glitchy`
+Discord: `amcalledglitchy.dev`
 Domain name: https://amcalledglitchy.dev
